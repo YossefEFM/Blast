@@ -58,4 +58,4 @@ OUTPUT
     because the difference between the current score and the best score is more than 3 (15-11 = 4)
 
 
-  6. If after extending, the hsp’s score is less than the HSP threshold the user specified, then ignore that alignment.
+6. If after extending, the hsp’s score is less than the HSP threshold the user specified, then ignore that alignment.
