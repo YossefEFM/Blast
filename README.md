@@ -56,6 +56,4 @@ OUTPUT
     For example, if X = 3, and extending your sequence had a best score of 15, then after 
     extending it more it had the score of 13, you would still continue extending till it reaches 11 
     because the difference between the current score and the best score is more than 3 (15-11 = 4)
-
-
 6. If after extending, the hsp’s score is less than the HSP threshold the user specified, then ignore that alignment.
