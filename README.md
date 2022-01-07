@@ -4,6 +4,8 @@ GENERAL DESCRIPTION : Implementation of Blast technique to search for a protein 
 
 
 
+
+
 INPUT :
 
 1- A protein sequence query
@@ -13,6 +15,8 @@ INPUT :
 3- Word length
 
 4- HSP threshold 
+
+
 
 
 
